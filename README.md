@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeelTiwary
 - 👀 I’m interested in Machine Learning and Web Development 
-- 🌱 I’m currently learning eb Development and Machune Learning 
+- 🌱 I’m currently learning web Development and Machine Learning 
 - 📫 How to reach me using mail neelmanitiwary3@gmail.com
 
 <!---
