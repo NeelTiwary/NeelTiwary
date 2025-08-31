@@ -1,6 +1,6 @@
 # Hi there, I'm Neel 👋
 
-Developer | FrontEnd Developer | AI Enthusiast  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF5733&width=435&lines=Developer+%7C+AI+Enthusiast;Building+Flight+Search+Apps+✈️;Loves+React+Native+%26+RAG+Apps)](https://git.io/typing-svg)
 
 ---
 
@@ -12,21 +12,21 @@ Developer | FrontEnd Developer | AI Enthusiast
 
 ---
 
-### 📈 GitHub Stats
-![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 
 ### 🌱 Current Focus
-- ✈️ Building a flight search engine with AI
-- 🤖 Learning more about LLM + RAG apps
-- 🛠 Improving React Native design skills
+- ✈️ Building a flight search engine with AI  
+- 🤖 Learning more about LLM + RAG apps  
+- 🛠 Improving React Native design skills  
 
 ---
 
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23.svg?style=flat&logo=google-chrome)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+---
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=100&section=footer"/>
