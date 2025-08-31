@@ -2,7 +2,7 @@
 <h3 align="center">AI Enthusiast | React Native Developer | Flight Search Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=FF5733&width=500&lines=AI+%26+RAG+Learner;React+Native+Developer;Building+Flight+Search+Engines✈️;Always+Exploring+New+Ideas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=FF5733&width=500&lines=AI+%26+RAG+Learner;React+Developer;Building+Flight+Search+Engines;Always+Exploring+New+Ideas" alt="Typing SVG" />
 </p>
 
 ---
