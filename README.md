@@ -12,9 +12,10 @@
 <td width="60%">
   
 ### 🌱 About Me  
-- ✈️ Currently building an AI-powered **Flight Search Engine**  
-- 🤖 Learning **LLMs + RAG systems**  
-- ⚛️ Exploring **React design patterns**    
+-  Currently building an AI-powered **Flight Search Engine**  
+-  Learning **LLMs + RAG systems**  
+-  Exploring **React design patterns**
+-  Working with **Machine Learning** 
 
 </td>
 <td width="40%">
