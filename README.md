@@ -14,8 +14,7 @@
 ### 🌱 About Me  
 - ✈️ Currently building an AI-powered **Flight Search Engine**  
 - 🤖 Learning **LLMs + RAG systems**  
-- ⚛️ Exploring **React Native design patterns**  
-- 🎮 Fun fact: I also love **Game Development**  
+- ⚛️ Exploring **React design patterns**    
 
 </td>
 <td width="40%">
