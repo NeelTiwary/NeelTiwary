@@ -7,15 +7,26 @@
 
 ---
 
-###  About Me  
--  Currently building an AI-powered **Flight Search Engine**  
--  Learning **LLMs + RAG systems**  
--  Exploring **React Native design patterns**  
--  Fun fact: I also love **Game Development**  
+<table>
+<tr>
+<td width="60%">
+  
+### 🌱 About Me  
+- ✈️ Currently building an AI-powered **Flight Search Engine**  
+- 🤖 Learning **LLMs + RAG systems**  
+- ⚛️ Exploring **React Native design patterns**  
+- 🎮 Fun fact: I also love **Game Development**  
+
+</td>
+<td width="40%">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer animation" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### Connect with Me  
+### 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" width="35px"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://skillicons.dev/icons?i=twitter" width="35px"/></a>
@@ -54,4 +65,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
