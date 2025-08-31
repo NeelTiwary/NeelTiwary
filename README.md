@@ -7,15 +7,15 @@
 
 ---
 
-### 🌱 About Me  
-- ✈️ Currently building an AI-powered **Flight Search Engine**  
-- 🤖 Learning **LLMs + RAG systems**  
-- ⚛️ Exploring **React Native design patterns**  
-- 🎮 Fun fact: I also love **Game Development**  
+###  About Me  
+-  Currently building an AI-powered **Flight Search Engine**  
+-  Learning **LLMs + RAG systems**  
+-  Exploring **React Native design patterns**  
+-  Fun fact: I also love **Game Development**  
 
 ---
 
-### 📬 Connect with Me  
+### Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" width="35px"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://skillicons.dev/icons?i=twitter" width="35px"/></a>
