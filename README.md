@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neel Mani</h1>
+<h1 align="center">Hi 👋, I'm Neelmani Tiwary</h1>
 <h3 align="center">AI Enthusiast | React Native Developer | Flight Search Explorer</h3>
 
 <p align="center">
@@ -40,13 +40,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelTiwary&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NeelTiwary&theme=onedark&row=1&column=6" alt="trophies" />
 </p>
 
 ---
